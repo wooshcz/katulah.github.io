@@ -5,19 +5,18 @@ portfolioitems:
     portfolioitem:
       - name: Painting 1
         image: '/images/portfolio/paintings-1.jpg'
-        link: https://hanuliakova.me/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        tags:
-          - Tag 1
-          - Tag 2
-        status: 'Finished'
-        start: '2010'
-        end: '2008'
-        authors:
-          - Katka
+        #link: https://hanuliakova.me/
+        #description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        # tags:
+        #   - Tag 1
+        #   - Tag 2
+        # status: 'Finished'
+        # start: '2010'
+        # end: '2008'
+        # authors:
+        #   - Katka
       - name: Painting 3
         image: '/images/portfolio/paintings-2.jpg'
-        link: https://hanuliakova.me/
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
         tags:
           - Tag 1
@@ -27,3 +26,6 @@ portfolioitems:
         end: '2008'
         authors:
           - Katka
+  - title: Logos
+    portfolioitem:
+      - name: Logo for XYZ

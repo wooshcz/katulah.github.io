@@ -8,8 +8,18 @@ DisableComments: false
 ---
 
 # About me
+## Nadpis 2
+### Nadpis 3
 * item 1
+    * ewkdw
+    * kwke
+    * 
 * item 2
+    1. wded
+    2. dwehwjd
 * item 3
 
-![profile pic](/images/katka.jpg)
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
