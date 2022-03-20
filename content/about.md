@@ -12,4 +12,4 @@ DisableComments: false
 * item 2
 * item 3
 
-![profile pic](../static/images/katka.jpg)
+![profile pic](/images/katka.jpg)
