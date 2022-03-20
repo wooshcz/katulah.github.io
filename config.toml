@@ -38,3 +38,16 @@ author = "Katarina Hanuliakova"
 description = "Call me Katka"
 profilePicture = "/images/P1020203c.jpg"
 
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:katula.h@gmail.com"
+
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://cz.linkedin.com/in/katarinahanuliakova"
+
+
