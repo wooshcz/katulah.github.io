@@ -1,0 +1,13 @@
+baseURL = "https://hanuliakova.me/"
+languageCode = "en-us"
+title = "Katarina Hanuliakova"
+theme = "anatole"
+publishdir = "docs"
+
+
+
+[params]
+title = "I'm Katka"
+author = "Katarina Hanuliakova"
+description = "Call me Katka"
+profilePicture = "images/katka.jpg"
