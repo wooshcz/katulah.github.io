@@ -15,7 +15,7 @@ portfolioitems:
         end: '2008'
         authors:
           - Katka
-      - name: Painting 2
+      - name: Painting 3
         image: '/images/portfolio/paintings-2.jpg'
         link: https://hanuliakova.me/
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
