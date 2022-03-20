@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Katarina Hanuliakova"
 theme = "anatole"
 publishdir = "docs"
+contentDir = "content"
 
 [menu]
 
@@ -36,3 +37,4 @@ title = "I'm Katka"
 author = "Katarina Hanuliakova"
 description = "Call me Katka"
 profilePicture = "images/katka.jpg"
+
