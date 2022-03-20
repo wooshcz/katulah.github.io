@@ -6,16 +6,18 @@
     <description>Recent content on Katarina Hanuliakova</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Mar 2022 10:21:31 +0100</lastBuildDate><atom:link href="https://hanuliakova.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 10:14:46 +0100</lastBuildDate>
+    
+	<atom:link href="https://hanuliakova.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Hello World</title>
       <link>https://hanuliakova.me/post/hello-world/</link>
       <pubDate>Sun, 20 Mar 2022 10:21:31 +0100</pubDate>
       
       <guid>https://hanuliakova.me/post/hello-world/</guid>
-      
-        <description>Hello world! </description>
-      
+      <description>Hello world! </description>
     </item>
     
     <item>
@@ -24,9 +26,7 @@
       <pubDate>Sun, 20 Mar 2022 10:14:46 +0100</pubDate>
       
       <guid>https://hanuliakova.me/contact/</guid>
-      
-        <description>Contact me </description>
-      
+      <description>Contact me </description>
     </item>
     
     <item>
@@ -35,20 +35,7 @@
       <pubDate>Sun, 20 Mar 2022 10:11:10 +0100</pubDate>
       
       <guid>https://hanuliakova.me/about/</guid>
-      
-        <description>About me  item 1 item 2 item 3  </description>
-      
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>https://hanuliakova.me/portfolio/example-project/</link>
-      <pubDate>Sun, 20 Mar 2022 09:48:05 +0100</pubDate>
-      
-      <guid>https://hanuliakova.me/portfolio/example-project/</guid>
-      
-        <description></description>
-      
+      <description>About me  item 1 item 2 item 3  </description>
     </item>
     
   </channel>
