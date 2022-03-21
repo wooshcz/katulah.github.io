@@ -4,6 +4,7 @@ title = "Katarína Hanuliaková"
 theme = "anatole"
 publishdir = "docs"
 contentDir = "content"
+disableHugoGeneratorInject = true
 
 [menu]
 
@@ -14,40 +15,25 @@ contentDir = "content"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
   name = "Portfolio"
-  weight = 300
+  weight = 200
   identifier = "portfolio"
   url = "/portfolio/"
 
-  [[menu.main]]
-  name = "Graphics"
-  weight = 400
-  identifier = "graphics"
-  url = "/graphics/"
-
 
 [params]
-title = "Katka"
+title = "Katka Hanuliaková"
 author = "Katarína Hanuliaková"
 description = "3D design, video and animation"
 profilePicture = "/images/P1020203c.jpg"
 
+  [[params.socialIcons]]
+  icon = "fas fa-envelope"
+  title = "e-mail"
+  url = "mailto:katula.h@gmail.com"
 
-[[params.socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:katula.h@gmail.com"
-
-
-[[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://cz.linkedin.com/in/katarinahanuliakova"
-
+  [[params.socialIcons]]
+  icon = "fab fa-linkedin"
+  title = "Linkedin"
+  url = "https://cz.linkedin.com/in/katarinahanuliakova"
 
