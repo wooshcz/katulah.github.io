@@ -1,6 +1,6 @@
 baseURL = "https://hanuliakova.me/"
 languageCode = "en-us"
-title = "Katarina Hanuliakova"
+title = "Katarína Hanuliaková"
 theme = "anatole"
 publishdir = "docs"
 contentDir = "content"
@@ -26,10 +26,10 @@ contentDir = "content"
   url = "/portfolio/"
 
   [[menu.main]]
-  name = "About"
+  name = "Graphics"
   weight = 400
-  identifier = "about"
-  url = "/about/"
+  identifier = "graphics"
+  url = "/graphics/"
 
 
 [params]

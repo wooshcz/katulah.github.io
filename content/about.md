@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: 2022-03-20T10:11:10+01:00
+draft: true
 Description: ""
 Tags: []
 Categories: []
