@@ -12,7 +12,11 @@ DisableComments: false
 
 Please have a look at my work in these categories:
 
-[Video and animation](https://hanuliakova.me/portfolio/) | [3D visualisations](https://hanuliakova.me/portfolio/) | [Logos](https://hanuliakova.me/portfolio/) | [School projects](https://hanuliakova.me/portfolio/) | [Paintings](https://hanuliakova.me/portfolio/)
+1. [Video and animation](/portfolio/#videoandanimation)
+2. [3D visualizations](/portfolio/#3dvisualizations)
+3. [Logos](/portfolio/#logos)
+4. [School projects](/portfolio/#schoolprojects)
+5. [Paintings](/portfolio/#paintings)
 
 
 ### Skills

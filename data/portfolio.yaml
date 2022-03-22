@@ -4,7 +4,8 @@ portfolioitems:
     # items within a category
     portfolioitem:
       - name: Kindergarten Promo
-        link: 'https://www.youtube.com/watch?v=Zrd9DS7DXEY' 
+        link: 'https://www.youtube.com/watch?v=Zrd9DS7DXEY'
+        linktext: "View on Youtube"
         image: '/images/portfolio/Kosi hnizdo.gif'
         description: 'Promo video for kindergarten to attract new parents.'
       - name: Lighthouse Animation
