@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://hanuliakova.me/</loc>
     <lastmod>2022-03-20T10:11:10+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://hanuliakova.me/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://hanuliakova.me/portfolio/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://hanuliakova.me/tags/</loc>
   </url>
+  
 </urlset>
