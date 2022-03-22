@@ -32,7 +32,10 @@ portfolioitems:
       - name: Company reception interior
         image: '/images/portfolio/Coca Cola 2.jpg'
         description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
-      - name: Store shelving project
+      - name: Store shelving project 1
+        image: '/images/portfolio/Komatop Prievidza4 druha strana_cele.jpg'
+        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+      - name: Store shelving project 2
         image: '/images/portfolio/VO Zerko Zvolen_var2_upr.jpg'
         description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
   
