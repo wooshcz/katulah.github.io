@@ -1,31 +1,80 @@
 portfolioitems:
   # portfolio category
+  - title: Video and Animation
+    # items within a category
+    portfolioitem:
+      - name: Kindergarten Promo
+        image: '/images/portfolio/paintings-1.jpg'
+        description: 'Promo video for kindergarten to attract new parents.'
+      - name: Lighthouse Animation
+        image: '/images/portfolio/Lighthouse teaser.gif'
+        description: 'Logo animation for the project of Innovation Centre in Pilsen.'
+      - name: Animation gif
+        image: '/images/portfolio/plakat_PU nefiltr_11_600x600.gif'
+        description: 'Animation promo gif for social net marketing.'
+      - name: Animation gif
+        image: '/images/portfolio/Tesco Black Box_3.gif'
+        description: 'Animation promo gif for social net marketing.'
+
+  - title: 3D Visualizations
+    portfolioitem:
+      - name: Living room interior
+        # link: '/images/portfolio/Camera 001 - Varianta 10.jpg'
+        image: '/images/portfolio/Camera 001 - Varianta 10.jpg'
+        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+      - name: Kids room interior
+        image: '/images/portfolio/Camera 001.jpg'
+        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+  
+  - title: Logos
+    portfolioitem:
+      - name: Logo for Microwave Measurements Group
+        image: '/images/portfolio/logo MMG-00.jpg'
+        # description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+      - name: Logo for Microwave Measurements Group
+        image: '/images/portfolio/logo MMG-02.jpg'
+        # description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+      - name: Running application logo
+        image: '/images/portfolio/run.png'
+        # description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+      - name: Thermometer application logo
+        image: '/images/portfolio/teplomer-06-02.png'
+        # description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+      - name: Wifi application logo
+        image: '/images/portfolio/wifi_512x512.png'
+        # description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+
+  - title: School Projects
+    portfolioitem:
+      - name: Students dormitory project
+        image: '/images/portfolio/podbaba 1.jpg'
+        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+      - name: Community centre project
+        image: '/images/portfolio/Prezentacia-45.jpg'
+        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+      - name: Theatre on the water project
+        image: '/images/portfolio/plachta 3.jpg'
+        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+      - name: Cable
+        image: '/images/portfolio/render oprava obrezany.jpg'
+        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+
   - title: Paintings
     # items within a category
     portfolioitem:
-      - name: Painting 1
+      - name: Bust
         image: '/images/portfolio/paintings-1.jpg'
         #link: https://hanuliakova.me/
-        #description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        # description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
         # tags:
         #   - Tag 1
         #   - Tag 2
         # status: 'Finished'
         # start: '2010'
-        # end: '2008'
+        # end: '2003'
         # authors:
         #   - Katka
-      - name: Painting 3
-        image: '/images/portfolio/paintings-2.jpg'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        tags:
-          - Tag 1
-          - Tag 2
-        status: 'Finished'
-        start: '2010'
-        end: '2008'
-        authors:
-          - Katka
-  - title: Logos
-    portfolioitem:
-      - name: Logo for XYZ
+      - name: Still life
+        image: '/images/portfolio/4.jpg'
+        # description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+        
