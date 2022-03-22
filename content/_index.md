@@ -9,12 +9,10 @@ DisableComments: false
 ---
 
 ### Welcome to my portfolio.
+
 Please have a look at my work in these categories:
-* Video and animation
-* 3D visualisations
-* Logos
-* School projects
-* Paintings
+
+[Video and animation](https://hanuliakova.me/portfolio/) | [3D visualisations](https://hanuliakova.me/portfolio/) | [Logos](https://hanuliakova.me/portfolio/) | [School projects](https://hanuliakova.me/portfolio/) | [Paintings](https://hanuliakova.me/portfolio/)
 
 
 ### Skills

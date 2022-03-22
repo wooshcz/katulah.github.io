@@ -4,15 +4,16 @@ portfolioitems:
     # items within a category
     portfolioitem:
       - name: Kindergarten Promo
-        image: '/images/portfolio/paintings-1.jpg'
+        link: 'https://www.youtube.com/watch?v=Zrd9DS7DXEY' 
+        image: '/images/portfolio/Kosi hnizdo.gif'
         description: 'Promo video for kindergarten to attract new parents.'
       - name: Lighthouse Animation
         image: '/images/portfolio/Lighthouse teaser.gif'
-        description: 'Logo animation for the project of Innovation Centre in Pilsen.'
-      - name: Animation gif
+        description: 'Logo animation presented for the project of Innovation Centre in Pilsen.'
+      - name: Poster animation
         image: '/images/portfolio/plakat_PU nefiltr_11_600x600.gif'
         description: 'Animation promo gif for social net marketing.'
-      - name: Animation gif
+      - name: Animation in the presentation
         image: '/images/portfolio/Tesco Black Box_3.gif'
         description: 'Animation promo gif for social net marketing.'
 
@@ -23,7 +24,13 @@ portfolioitems:
         image: '/images/portfolio/Camera 001 - Varianta 10.jpg'
         description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
       - name: Kids room interior
-        image: '/images/portfolio/Camera 001.jpg'
+        image: '/images/portfolio/Camera 001 mensie.jpg'
+        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+      - name: Company reception interior
+        image: '/images/portfolio/Coca Cola 2.jpg'
+        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+      - name: Store shelving project
+        image: '/images/portfolio/VO Zerko Zvolen_var2_upr.jpg'
         description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
   
   - title: Logos
@@ -48,7 +55,8 @@ portfolioitems:
     portfolioitem:
       - name: Students dormitory project
         image: '/images/portfolio/podbaba 1.jpg'
-        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+        description: 'Students dormitory with a coffee and walk through yard in Podbaba.'
+        end: '2009'
       - name: Community centre project
         image: '/images/portfolio/Prezentacia-45.jpg'
         description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
