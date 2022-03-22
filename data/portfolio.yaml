@@ -3,76 +3,96 @@ portfolioitems:
   - title: Video and Animation
     # items within a category
     portfolioitem:
-      - name: Kindergarten Promo
+      - name: Kindergarten Promo Video
         link: 'https://www.youtube.com/watch?v=Zrd9DS7DXEY'
         linktext: "View on Youtube"
         image: '/images/portfolio/Kosi hnizdo.gif'
-        description: 'Promo video for kindergarten to attract new parents.'
-      - name: Lighthouse Animation
-        image: '/images/portfolio/Lighthouse teaser kratke.gif'
-        description: 'Logo animation presented for the project of Innovation Centre in Pilsen.'
-      - name: Poster animation
-        image: '/images/portfolio/plakat_PU nefiltr_11_600x600.gif'
-        description: 'Animation promo gif for social net marketing.'
-      - name: Animation in the presentation
-        image: '/images/portfolio/Tesco Black Box_3_kratsie.gif'
-        description: 'Animation promo gif for social net marketing.'
-      - name: Store planogram animation
+        description: 'Promo video for a forest kindergarten to attract new parents. Video based mainly on the photos of the children at different activities. The voices of children are introducing the kindergarten themselves. Prepared in Adobe After Effects, Adobe Photoshop.'
+        end: '2021'
+      - name: Store Planogram Animation
         image: '/images/portfolio/Kaufland.gif'
-        description: 'Animation promo gif for social net marketing.'
+        description: 'Store shelving and planogram change presented to the customer by a video animation. Prepared in Autodesk 3ds Max, Adobe After Effects, Adobe Photoshop.'
+        end: '2019'      
+      - name: Poster Animation
+        image: '/images/portfolio/plakat_PU nefiltr_11_600x600.gif'
+        description: 'Promo animation for social net marketing. Prepared in Adobe After Effects, Adobe Photoshop.'
+        end: '2018'
+      - name: Animation in the Presentation
+        image: '/images/portfolio/Tesco Black Box_3_kratsie.gif'
+        description: 'Promo animation for a presentation to the customer. Prepared in Adobe After Effects, Adobe Photoshop.'
+        end: '2018'
+      - name: Lighthouse Logo Animation
+        image: '/images/portfolio/Lighthouse teaser kratke.gif'
+        description: 'Logo animation was presented both internally and externally to introduce the new project of Innovation Centre in Pilsen. Prepared in Adobe After Effects, Adobe Illustrator, Adobe Photoshop.'
+        end: '2015'
 
   - title: 3D Visualizations
     portfolioitem:
-      - name: Living room interior
-        # link: '/images/portfolio/Camera 001 - Varianta 10.jpg'
-        image: '/images/portfolio/Camera 001 - Varianta 10.jpg'
-        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
-      - name: Kids room interior
+      - name: Living Room Interior
+        link: '/images/portfolio/Camera 001 - Varianta 10 mensie.jpg'
+        linktext: "🔍"
+        image: '/images/portfolio/Camera 001 - Varianta 10 mensie.jpg'
+        description: 'Interior design for a living room. Prepared in Autodesk 3ds Max, Adobe Photoshop.'
+        end: '2021'
+      - name: Kids Room Interior
+        link: '/images/portfolio/Camera 001 mensie.jpg'
+        linktext: "🔍"
         image: '/images/portfolio/Camera 001 mensie.jpg'
-        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+        description: 'Interior design for a kids room. Prepared in Autodesk 3ds Max, Adobe Photoshop.'
+        end: '2022'
+      - name: Store shelving project 1
+        link: '/images/portfolio/Komatop Prievidza4 druha strana_cele 1000pix.jpg'
+        linktext: "🔍"
+        image: '/images/portfolio/Komatop Prievidza4 druha strana_cele 1000pix.jpg'
+        description: 'Store shelving and planogram change presented to the customer. Prepared in Autodesk 3ds Max, Adobe Photoshop.'
+        end: '2019'
+      - name: Store shelving project 2
+        link: '/images/portfolio/VO Zerko Zvolen_var2_upr 1000pix.jpg'
+        linktext: "🔍"
+        image: '/images/portfolio/VO Zerko Zvolen_var2_upr 1000pix.jpg'
+        description: 'Store shelving and planogram change presented to the customer. Prepared in Autodesk 3ds Max, Adobe Photoshop.'
+        end: '2019'
       - name: Company reception interior
         image: '/images/portfolio/Coca Cola 2.jpg'
-        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
-      - name: Store shelving project 1
-        image: '/images/portfolio/Komatop Prievidza4 druha strana_cele.jpg'
-        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
-      - name: Store shelving project 2
-        image: '/images/portfolio/VO Zerko Zvolen_var2_upr.jpg'
-        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+        description: 'Visualization prepared for a company reception area. Prepared in Autodesk 3ds Max, Adobe Photoshop.'
+        end: '2008'
   
   - title: Logos
     portfolioitem:
-      - name: Logo for Microwave Measurements Group
-        image: '/images/portfolio/logo MMG-00.jpg'
-        # description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
-      - name: Logo for Microwave Measurements Group
-        image: '/images/portfolio/logo MMG-02.jpg'
-        # description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
-      - name: Running application logo
-        image: '/images/portfolio/run.png'
-        # description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
-      - name: Thermometer application logo
-        image: '/images/portfolio/teplomer-06-02.png'
-        # description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
-      - name: Wifi application logo
-        image: '/images/portfolio/wifi_512x512.png'
-        # description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
-
+      - name: Logos
+        link: '/images/portfolio/Loga.jpg'
+        linktext: "🔍"
+        image: '/images/portfolio/Loga.jpg'
+        description: 'Logo for Microwave Measurements Group. Running application logo. Thermometer application logo. Wifi application logo. Prepared in Adobe Illustrator, Adobe Photoshop.'
+        start: '2012'
+        end: '2018'
+     
   - title: School Projects
     portfolioitem:
       - name: Students dormitory project
+        link: '/images/portfolio/podbaba 1.jpg'
+        linktext: "🔍"
         image: '/images/portfolio/podbaba 1.jpg'
-        description: 'Students dormitory with a coffee and walk through yard in Podbaba.'
+        description: 'Students dormitory with a coffee and walk through yard in Podbaba, Prague. Prepared in Autodesk AutoCAD, Autodesk 3ds Max, Adobe Photoshop.'
         end: '2009'
       - name: Community centre project
+        link: '/images/portfolio/Prezentacia-45.jpg'
+        linktext: "🔍"
         image: '/images/portfolio/Prezentacia-45.jpg'
-        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+        description: 'Large community centre in Michle, Prague was prepared as a diploma project. The leisure centre is located on the boundary, from one side there is an industrial square as the main node of public space of this area, on the other side there is a park spreading around small river Botič. The concept of the building, coming from these two different environments, has “two faces”. The first face is the border line from the square with LED facade - interractive and self-presenting. The other face is park continuing form, facade of horizontal pieces spaced apart. These levels can be used as outdoor seating and stairs, allowing people to climb the building. Prepared in Autodesk AutoCAD, Autodesk 3ds Max, Adobe Photoshop.'
+        end: '2010'
       - name: Theatre on the water project
+        link: '/images/portfolio/plachta 3.jpg'
+        linktext: "🔍"
         image: '/images/portfolio/plachta 3.jpg'
-        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+        description: 'Open-air heatre located on a pond Džbán in Divoká Šárka, Prague. Prepared in Autodesk AutoCAD, Autodesk 3ds Max, Adobe Photoshop.'
+        end: '2008'
       - name: Cableway station project
+        link: '/images/portfolio/render oprava obrezany.jpg'
+        linktext: "🔍"
         image: '/images/portfolio/render oprava obrezany.jpg'
-        description: 'Lorem ipsum dolor sit amet, consectetur consequat.'
+        description: 'Cableway station in Petržalka, Bratislava. Prepared in Autodesk AutoCAD, Autodesk 3ds Max, Adobe Photoshop.'
+        end: '2007'
 
   - title: Paintings
     # items within a category
