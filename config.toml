@@ -37,3 +37,9 @@ profilePicture = "/images/P1020203c.jpg"
   title = "Linkedin"
   url = "https://cz.linkedin.com/in/katarinahanuliakova"
 
+[outputs]
+  page = ["HTML"]
+  home = ["HTML"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
