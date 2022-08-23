@@ -16,7 +16,8 @@ Please have a look at my work in these categories:
 2. [3D visualizations](/portfolio/#3dvisualizations)
 3. [Logos](/portfolio/#logos)
 4. [School projects](/portfolio/#schoolprojects)
-5. [Paintings](/portfolio/#paintings)
+5. [Posters](/portfolio/#posters)
+6. [Paintings](/portfolio/#paintings)
 
 
 ### Skills

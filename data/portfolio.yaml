@@ -94,6 +94,22 @@ portfolioitems:
         description: 'Cableway station in Petržalka, Bratislava. Prepared in Autodesk AutoCAD, Autodesk 3ds Max, Adobe Photoshop.'
         end: '2007'
 
+  - title: Posters
+    # items within a category
+    portfolioitem:
+      - name: Poster for University
+        image: '/images/portfolio/posters/plagat-katedry.jpg'
+        description: 'Promo poster for Department of Electromagnetic Field, CTU FEE. Prepared in Adobe Illustrator, Adobe Photoshop.'
+        end: '2014'
+      - name: POSM notebook series
+        image: '/images/portfolio/posters/sony-vaio-EA1.jpg'
+        description: 'Direct mail for new notebook series.Prepared in Adobe Illustrator, Adobe Photoshop.'
+        end: '2010'
+      - name: Poster for a school project
+        image: '/images/portfolio/posters/ATVZ-plachta-mensia.jpg'
+        description: 'Promo poster for students dormitory project at school. Prepared in Adobe Illustrator, Adobe Photoshop.'
+        end: '2009'
+
   - title: Paintings
     # items within a category
     portfolioitem:
