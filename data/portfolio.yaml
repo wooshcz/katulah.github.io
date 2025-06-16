@@ -23,7 +23,7 @@ portfolioitems:
         end: '2018'
       - name: Lighthouse Logo Animation
         image: '/images/portfolio/video-animation/lighthouse-teaser.gif'
-        description: 'Logo animation was presented both internally and externally to introduce the new project of Innovation Centre in Pilsen. Prepared in Adobe After Effects, Adobe Illustrator, Adobe Photoshop.'
+        description: 'Logo animation was presented both internally and externally to introduce the new project of the Innovation Centre in Pilsen. Prepared in Adobe After Effects, Adobe Illustrator, Adobe Photoshop.'
         end: '2015'
 
   - title: 3D Visualizations
@@ -56,7 +56,27 @@ portfolioitems:
         image: '/images/portfolio/3d/coca-cola-2.jpg'
         description: 'Visualization prepared for a company reception area. Prepared in Autodesk 3ds Max, Adobe Photoshop.'
         end: '2008'
-  
+
+  - title: Desktop Publishing, Posters
+    # items within a category
+    portfolioitem:
+      - name: Agricultural Journal
+        image: '/images/portfolio/posters/JFS.jpg'
+        description: 'Desktop publishing of the scientific articles in agricultural journals, published both print and online. Prepared in Adobe InDesign, Adobe Illustrator, MathType.'
+        end: '2024'
+      - name: Poster for University
+        image: '/images/portfolio/posters/plagat-katedry.jpg'
+        description: 'Promo poster for the Department of Electromagnetic Field, CTU FEE. Prepared in Adobe Illustrator, Adobe Photoshop.'
+        end: '2014'
+      - name: POSM notebook series
+        image: '/images/portfolio/posters/sony-vaio-EA1.jpg'
+        description: 'Direct mail for new notebook series. Prepared in Adobe Illustrator, Adobe Photoshop.'
+        end: '2010'
+      - name: Poster for a school project
+        image: '/images/portfolio/posters/ATVZ-plachta-mensia.jpg'
+        description: 'Promo poster for students dormitory project at school. Prepared in Adobe Illustrator, Adobe Photoshop.'
+        end: '2009'
+
   - title: Logos
     portfolioitem:
       - name: Logos
@@ -73,7 +93,7 @@ portfolioitems:
         link: '/images/portfolio/school/dormitory-1.jpg'
         linktext: "🔍"
         image: '/images/portfolio/school/dormitory-1.jpg'
-        description: 'Students dormitory with a coffee and walk through yard in Podbaba, Prague. Prepared in Autodesk AutoCAD, Autodesk 3ds Max, Adobe Photoshop.'
+        description: 'Students dormitory with a coffee and a walk-through yard in Podbaba, Prague. Prepared in Autodesk AutoCAD, Autodesk 3ds Max, Adobe Photoshop.'
         end: '2009'
       - name: Community centre project
         link: '/images/portfolio/school/community-centre-45.jpg'
@@ -85,7 +105,7 @@ portfolioitems:
         link: '/images/portfolio/school/theatre-3.jpg'
         linktext: "🔍"
         image: '/images/portfolio/school/theatre-3.jpg'
-        description: 'Open-air theatre located on Džbán pond in Divoká Šárka, Prague. Prepared in Autodesk AutoCAD, Autodesk 3ds Max, Adobe Photoshop.'
+        description: 'Open-air theatre located on the Džbán pond in Divoká Šárka, Prague. Prepared in Autodesk AutoCAD, Autodesk 3ds Max, Adobe Photoshop.'
         end: '2008'
       - name: Cableway station project
         link: '/images/portfolio/school/cableway-station-1.jpg'
@@ -93,23 +113,7 @@ portfolioitems:
         image: '/images/portfolio/school/cableway-station-1.jpg'
         description: 'Cableway station in Petržalka, Bratislava. Prepared in Autodesk AutoCAD, Autodesk 3ds Max, Adobe Photoshop.'
         end: '2007'
-
-  - title: Posters
-    # items within a category
-    portfolioitem:
-      - name: Poster for University
-        image: '/images/portfolio/posters/plagat-katedry.jpg'
-        description: 'Promo poster for Department of Electromagnetic Field, CTU FEE. Prepared in Adobe Illustrator, Adobe Photoshop.'
-        end: '2014'
-      - name: POSM notebook series
-        image: '/images/portfolio/posters/sony-vaio-EA1.jpg'
-        description: 'Direct mail for new notebook series.Prepared in Adobe Illustrator, Adobe Photoshop.'
-        end: '2010'
-      - name: Poster for a school project
-        image: '/images/portfolio/posters/ATVZ-plachta-mensia.jpg'
-        description: 'Promo poster for students dormitory project at school. Prepared in Adobe Illustrator, Adobe Photoshop.'
-        end: '2009'
-
+ 
   - title: Paintings
     # items within a category
     portfolioitem:

@@ -24,7 +24,7 @@ disableHugoGeneratorInject = true
 [params]
 title = "Katka Hanuliaková"
 author = "Katarína Hanuliaková"
-description = "3D design, video and animation"
+description = "desktop publishing, visualisations, video and animation"
 profilePicture = "/images/P1020203c.jpg"
 
   [[params.socialIcons]]
