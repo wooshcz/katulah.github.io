@@ -26,7 +26,7 @@ portfolioitems:
         description: 'Logo animation was presented both internally and externally to introduce the new project of the Innovation Centre in Pilsen. Prepared in Adobe After Effects, Adobe Illustrator, Adobe Photoshop.'
         end: '2015'
 
-  - title: 3D Visualizations
+  - title: 3D Visualisations
     portfolioitem:
       - name: Living Room Interior
         link: '/images/portfolio/3d/living-room-1.jpg'
@@ -54,7 +54,7 @@ portfolioitems:
         end: '2019'
       - name: Company reception interior
         image: '/images/portfolio/3d/coca-cola-2.jpg'
-        description: 'Visualization prepared for a company reception area. Prepared in Autodesk 3ds Max, Adobe Photoshop.'
+        description: 'Visualisation prepared for a company reception area. Prepared in Autodesk 3ds Max, Adobe Photoshop.'
         end: '2008'
 
   - title: Desktop Publishing, Posters

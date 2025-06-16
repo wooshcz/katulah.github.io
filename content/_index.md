@@ -13,7 +13,7 @@ DisableComments: false
 Please have a look at my work in these categories:
 
 1. [Video and Animation](/portfolio/#videoandanimation)
-2. [3D Visualizations](/portfolio/#3dvisualizations)
+2. [3D Visualisations](/portfolio/#3dvisualisations)
 3. [Desktop Publishing, Posters](/portfolio/#DTPposters)
 4. [Logos](/portfolio/#logos)
 5. [School Projects](/portfolio/#schoolprojects)
