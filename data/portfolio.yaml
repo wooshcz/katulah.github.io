@@ -40,19 +40,19 @@ portfolioitems:
         image: '/images/portfolio/3d/kids-room-1.jpg'
         description: 'Interior design for a kids room. Prepared in Autodesk 3ds Max, Adobe Photoshop.'
         end: '2022'
-      - name: Store shelving project 1
+      - name: Store Shelving Project 1
         link: '/images/portfolio/3d/komatop-prievidza.jpg'
         linktext: "🔍"
         image: '/images/portfolio/3d/komatop-prievidza.jpg'
         description: 'Store shelving and planogram change presented to the customer. Prepared in Autodesk 3ds Max, Adobe Photoshop.'
         end: '2019'
-      - name: Store shelving project 2
+      - name: Store Shelving Project 2
         link: '/images/portfolio/3d/zverko-zvolen.jpg'
         linktext: "🔍"
         image: '/images/portfolio/3d/zverko-zvolen.jpg'
         description: 'Store shelving and planogram change presented to the customer. Prepared in Autodesk 3ds Max, Adobe Photoshop.'
         end: '2019'
-      - name: Company reception interior
+      - name: Company Reception Interior
         image: '/images/portfolio/3d/coca-cola-2.jpg'
         description: 'Visualisation prepared for a company reception area. Prepared in Autodesk 3ds Max, Adobe Photoshop.'
         end: '2008'
@@ -72,13 +72,13 @@ portfolioitems:
         image: '/images/portfolio/posters/plagat-katedry.jpg'
         description: 'Promo poster for the Department of Electromagnetic Field, CTU FEE. Prepared in Adobe Illustrator, Adobe Photoshop.'
         end: '2014'
-      - name: POSM notebook series
+      - name: POSM Notebook Series
         link: '/images/portfolio/posters/sony-vaio-EA1.jpg'
         linktext: "🔍"
         image: '/images/portfolio/posters/sony-vaio-EA1.jpg'
         description: 'Direct mail for new notebook series. Prepared in Adobe Illustrator, Adobe Photoshop.'
         end: '2010'
-      - name: Poster for a school project
+      - name: Poster for a School Project
         link: '/images/portfolio/posters/ATVZ-plachta-mensia.jpg'
         linktext: "🔍"
         image: '/images/portfolio/posters/ATVZ-plachta-mensia.jpg'
@@ -97,25 +97,25 @@ portfolioitems:
      
   - title: School Projects
     portfolioitem:
-      - name: Students dormitory project
+      - name: Students Dormitory Project
         link: '/images/portfolio/school/dormitory-1.jpg'
         linktext: "🔍"
         image: '/images/portfolio/school/dormitory-1.jpg'
         description: 'Students dormitory with a coffee and a walk-through yard in Podbaba, Prague. Prepared in Autodesk AutoCAD, Autodesk 3ds Max, Adobe Photoshop.'
         end: '2009'
-      - name: Community centre project
+      - name: Community Centre Project
         link: '/images/portfolio/school/community-centre-45.jpg'
         linktext: "🔍"
         image: '/images/portfolio/school/community-centre-45.jpg'
         description: 'Large community centre in Michle, Prague was prepared as a diploma project. The leisure centre is located on the boundary, from one side there is an industrial square as the main node of public space of this area, on the other side there is a park spreading around small river Botič. The concept of the building, coming from these two different environments, has “two faces”. The first face is the border line from the square with LED facade - interractive and self-presenting. The other face is park continuing form, facade of horizontal pieces spaced apart. These levels can be used as outdoor seating and stairs, allowing people to climb the building. Prepared in Autodesk AutoCAD, Autodesk 3ds Max, Adobe Photoshop.'
         end: '2010'
-      - name: Theatre on the water project
+      - name: Water Theatre Project
         link: '/images/portfolio/school/theatre-3.jpg'
         linktext: "🔍"
         image: '/images/portfolio/school/theatre-3.jpg'
         description: 'Open-air theatre located on the Džbán pond in Divoká Šárka, Prague. Prepared in Autodesk AutoCAD, Autodesk 3ds Max, Adobe Photoshop.'
         end: '2008'
-      - name: Cableway station project
+      - name: Cableway Station Project
         link: '/images/portfolio/school/cableway-station-1.jpg'
         linktext: "🔍"
         image: '/images/portfolio/school/cableway-station-1.jpg'
@@ -137,7 +137,7 @@ portfolioitems:
         end: '2003'
         # authors:
         #   - Katka
-      - name: Still life
+      - name: Still Life
         image: '/images/portfolio/paintings/pencil-4.jpg'
         description: 'Pencil'
         end: '2003'
