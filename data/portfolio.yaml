@@ -57,7 +57,7 @@ portfolioitems:
         description: 'Visualisation prepared for a company reception area. Prepared in Autodesk 3ds Max, Adobe Photoshop.'
         end: '2008'
 
-  - title: Desktop Publishing, Posters
+  - title: Desktop Publishing and Posters
     # items within a category
     portfolioitem:
       - name: Agricultural Journal
