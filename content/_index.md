@@ -14,7 +14,7 @@ Please have a look at my work in these categories:
 
 1. [Video and Animation](/portfolio/#videoandanimation)
 2. [3D Visualisations](/portfolio/#3dvisualisations)
-3. [Desktop Publishing and Posters](/portfolio/#DTPandposters)
+3. [Desktop Publishing and Posters](/portfolio/#desktoppublishingandposters)
 4. [Logos](/portfolio/#logos)
 5. [School Projects](/portfolio/#schoolprojects)
 6. [Paintings](/portfolio/#paintings)
