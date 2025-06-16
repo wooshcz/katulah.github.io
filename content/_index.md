@@ -22,10 +22,12 @@ Please have a look at my work in these categories:
 
 ### Skills
 * Autodesk AutoCAD, Bentley Microstation, Autodesk 3ds Max, SketchUp
-* Adobe After Effects, Adobe Photoshop, Adobe Illustrator, Adobe InDesign
-* QuarkXPress, Corel Draw, GIMP
-* Microsoft Office (Word, Excel, PowerPoint, Outlook), OpenOffice.org
+* Adobe Photoshop, GIMP, Adobe Illustrator
+* Adobe InDesign, Scribus
+* Adobe After Effects 
+* Microsoft Office, MathType
 ### Languages
-* English - advanced
-* German - intermediate
-* Italian - basic
+* English – advanced
+* German – intermediate
+* Italian – basic
+* Portuguese – basic
